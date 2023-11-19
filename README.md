@@ -14,10 +14,9 @@ You need Node.js 16+ to build. Use [nvm](https://github.com/nvm-sh/nvm) to insta
 Clone this repository, install Node.js dependencies, and build the source code:
 
 ```bash
-git clone git@github.com:AppWorks-School/Blockchain-Resource.git
-cd Blockchain-Resource/section3/SimpleSwap
-npm install
-npm run test:hardhat
-npm run test:foundry
+git clone git@github.com:max881230/HW_10.git
+cd HW_10
+forge install
+forge test -vvvvv
 ```
 
