@@ -14,7 +14,7 @@ Clone this repository, and build the source code:
 ```bash
 git clone git@github.com:max881230/HW_10.git
 cd HW_10
-forge install
-forge test
+npm install
+npm run test:foundry
 ```
 
